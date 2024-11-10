@@ -37,12 +37,3 @@ This project focuses on data cleaning, exploration, and analysis to enhance mark
 - **Visualization**: `matplotlib`, `seaborn`
 - **Reporting**: Actionable insights presented in business-friendly formats.
 
-## 📊 Sample Visualizations
-
-**(Include images or links to charts if available)**
-
-## 🚀 Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/data-cleaning-analysis-project.git
